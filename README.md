@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0342-power-of-four) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0342-power-of-four) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
 | ------- |
@@ -88,8 +91,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Counting
 |  |
 | ------- |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+## Combinatorics
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
