@@ -10,5 +10,9 @@ class Solution:
             if num not in index_map:
                 # map its index to its value
                 index_map[num] = i
-        # reorder the map to original orientation
-        return [index_map[num] for num in nums]
+            # create a return list
+        ret = []
+        for i in nums:
+            # return the index to the corresponding number in original order
+            ret.append(index_map[i])
+        return ret
