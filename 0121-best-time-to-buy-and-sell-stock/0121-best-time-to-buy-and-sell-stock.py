@@ -1,21 +1,17 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        if not prices:
-            return 0
-        
-        min_price = float('inf')  # Cheapest price seen so far
-        max_profit = 0            # Best profit so far
-    
-        for price in prices:
-            # Update minimum price (a.k.a.best day to buy)
-            if price < min_price:
-                min_price = price
-            
-            # Calculate profit if we sell today
-            profit = price - min_price
-            
-            # Update max profit
-            if profit > max_profit:
-                max_profit = profit
-        
+        left = 0 # buy pointer
+        right = 1 # sell pointer
+        max_profit = 0 # max profit 
+
+        while right < len(prices):
+            if prices[right] > prices[left]:
+                profit = prices[right]- prices[left]
+                max_profit = max(profit, max_profit)
+            else: 
+                # if found a new lower price than current one 
+                # update the but pointer
+                left = right
+            # move the right pointer
+            right +=1
         return max_profit
