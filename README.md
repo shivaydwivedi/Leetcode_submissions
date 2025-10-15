@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0054-spiral-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Counting
