@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0054-spiral-matrix) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2169-simple-bank-system) |
+| [2288-count-operations-to-obtain-zero](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2288-count-operations-to-obtain-zero) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3676-smallest-number-with-all-set-bits) |
