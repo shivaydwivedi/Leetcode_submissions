@@ -1,18 +1,24 @@
-from collections import Counter
+
 class Solution:
     def maxOperations(self, nums: List[int], k: int) -> int:
-        # empty hashmap
-        counts = Counter()
-        # track no. of pairs
+        # sort the array 
+        nums.sort()
+        # initialize our pointers
+        l = 0
+        r = len(nums)-1
         pairs = 0
-
-        # iterate over the array
-        for x in nums:
-            # complement
-            y = k-x
-            if counts[y]>0:
-                pairs += 1
-                counts[y] -= 1
+        # cALCULATE The sum 
+        while l < r:
+            sum = nums[l] + nums[r]
+            # sum < k
+            if sum < k:
+                l += 1
+            # sum > k
+            elif sum > k:
+                r -= 1
+            # sum == k
             else:
-                counts[x] += 1
+                pairs += 1
+                l += 1
+                r -= 1
         return pairs
