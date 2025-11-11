@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0643-maximum-average-subarray-i) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0443-string-compression) |
+| [0474-ones-and-zeroes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0474-ones-and-zeroes) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0474-ones-and-zeroes) |
 | [0875-longest-mountain-in-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0875-longest-mountain-in-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
