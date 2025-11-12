@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2169-simple-bank-system](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2169-simple-bank-system) |
