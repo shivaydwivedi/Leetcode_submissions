@@ -339,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
