@@ -361,4 +361,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1317-monthly-transactions-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1317-monthly-transactions-i) |
 | [1415-students-and-examinations](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1415-students-and-examinations) |
+| [1480-movie-rating](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1480-movie-rating) |
 <!---LeetCode Topics End-->
