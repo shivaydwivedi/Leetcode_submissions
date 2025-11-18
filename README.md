@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0643-maximum-average-subarray-i) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0724-find-pivot-index) |
 | [0875-longest-mountain-in-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1019-squares-of-a-sorted-array) |
