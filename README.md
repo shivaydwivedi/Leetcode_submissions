@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0735-asteroid-collision) |
 | [0759-set-intersection-size-at-least-two](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0875-longest-mountain-in-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0875-longest-mountain-in-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0342-power-of-four) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
