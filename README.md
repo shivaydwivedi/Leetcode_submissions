@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0496-next-greater-element-i) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0342-power-of-four) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1395-minimum-time-visiting-all-points](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1636-number-of-substrings-with-only-1s) |
