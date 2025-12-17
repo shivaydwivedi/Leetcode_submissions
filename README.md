@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0268-missing-number) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0394-decode-string) |
