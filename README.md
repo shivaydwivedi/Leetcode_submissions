@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0060-permutation-sequence) |
+| [0172-factorial-trailing-zeroes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0263-ugly-number) |
