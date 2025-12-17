@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2485-find-the-pivot-integer](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2485-find-the-pivot-integer) |
+| [2523-closest-prime-numbers-in-range](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Backtracking
