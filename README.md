@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0735-asteroid-collision) |
 | [0759-set-intersection-size-at-least-two](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0875-longest-mountain-in-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0875-longest-mountain-in-array) |
+| [0883-projection-area-of-3d-shapes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1046-max-consecutive-ones-iii) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0728-self-dividing-numbers) |
+| [0883-projection-area-of-3d-shapes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1395-minimum-time-visiting-all-points](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1395-minimum-time-visiting-all-points) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1395-minimum-time-visiting-all-points](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1395-minimum-time-visiting-all-points) |
 | [3623-count-number-of-trapezoids-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0883-projection-area-of-3d-shapes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0883-projection-area-of-3d-shapes) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2625-increment-submatrices-by-one) |
