@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0735-asteroid-collision) |
 | [0759-set-intersection-size-at-least-two](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0812-largest-triangle-area](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0812-largest-triangle-area) |
 | [0875-longest-mountain-in-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0875-longest-mountain-in-array) |
 | [0883-projection-area-of-3d-shapes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0728-self-dividing-numbers) |
+| [0812-largest-triangle-area](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1395-minimum-time-visiting-all-points](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1395-minimum-time-visiting-all-points) |
 | [3623-count-number-of-trapezoids-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3623-count-number-of-trapezoids-i) |
