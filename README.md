@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0149-max-points-on-a-line](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0238-product-of-array-except-self) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0149-max-points-on-a-line](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0060-permutation-sequence) |
+| [0149-max-points-on-a-line](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0231-power-of-two) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1395-minimum-time-visiting-all-points](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1395-minimum-time-visiting-all-points) |
