@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0217-contains-duplicate) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0268-missing-number) |
