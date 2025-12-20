@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0342-power-of-four) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0233-number-of-digit-one) |
 | [0342-power-of-four](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0394-decode-string) |
 ## Dynamic Programming
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0233-number-of-digit-one](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0233-number-of-digit-one) |
 | [0392-is-subsequence](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0474-ones-and-zeroes) |
 | [0875-longest-mountain-in-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0875-longest-mountain-in-array) |
