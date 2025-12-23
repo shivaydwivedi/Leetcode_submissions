@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0110-balanced-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0110-balanced-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Data Stream
@@ -578,4 +580,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
