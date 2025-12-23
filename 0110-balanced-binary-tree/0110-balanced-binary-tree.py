@@ -6,21 +6,31 @@
 #         self.right = right
 class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
-        balanced = [True]
-
-        # recursive helper fuunction
-        def height(root):
-            if not root:
+        ## recurisve helper function
+        def height(node):
+            ## if current node is None
+            if not node:
                 return 0
             
-            left =height(root.left)
-            right = height(root.right)
-
-            if abs(left - right ) > 1:
-                balanced[0] = False
-                return 0
+            # calculating height of left subtree
+            left = height(node.left)
+            # if left tree i already unbalanced
+            if left == -1:
+                
+                return -1
+            
+            # calculate height of right subtree
+            right = height(node.right)
+            # if right is already unbalanced
+            if right == -1:
+                return -1
+            
+            # if difference in left and right subtree is greater than 1
+            if abs(left - right) > 1:
+                return -1
+            
+            # balcned return height 
+            # Height = (current node) + MAX dist(left or right)
             return 1 + max(left, right)
         
-        height(root)
-        return balanced[0]
-
+        return height(root) != -1
