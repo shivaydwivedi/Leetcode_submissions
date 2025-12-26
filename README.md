@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2470-removing-stars-from-a-string](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2470-removing-stars-from-a-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1590-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1833-find-the-highest-altitude) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2485-find-the-pivot-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2625-increment-submatrices-by-one) |
