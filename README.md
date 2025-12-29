@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0496-next-greater-element-i) |
+| [0756-pyramid-transition-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0756-pyramid-transition-matrix) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0474-ones-and-zeroes) |
 | [0649-dota2-senate](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0649-dota2-senate) |
+| [0756-pyramid-transition-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0756-pyramid-transition-matrix) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0089-gray-code) |
+| [0756-pyramid-transition-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0756-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Linked List
 |  |
