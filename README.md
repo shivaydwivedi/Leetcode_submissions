@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0172-factorial-trailing-zeroes) |
