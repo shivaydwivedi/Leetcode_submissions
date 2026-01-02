@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1046-max-consecutive-ones-iii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0756-pyramid-transition-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
