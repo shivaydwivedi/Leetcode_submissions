@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0496-next-greater-element-i) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0136-single-number) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
+| [0085-maximal-rectangle](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0233-number-of-digit-one) |
@@ -451,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0840-magic-squares-in-grid](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0840-magic-squares-in-grid) |
 | [0883-projection-area-of-3d-shapes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0883-projection-area-of-3d-shapes) |
