@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0155-min-stack) |
 | [0933-number-of-recent-calls](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0933-number-of-recent-calls) |
 | [2169-simple-bank-system](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2169-simple-bank-system) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0146-lru-cache](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0268-missing-number) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -743,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Graph Theory
