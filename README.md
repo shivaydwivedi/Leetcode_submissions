@@ -565,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0112-path-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0112-path-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0112-path-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -738,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0112-path-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
