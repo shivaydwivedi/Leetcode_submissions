@@ -569,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0113-path-sum-ii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0089-gray-code) |
+| [0113-path-sum-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0113-path-sum-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0756-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Linked List
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0113-path-sum-ii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -746,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0113-path-sum-ii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
