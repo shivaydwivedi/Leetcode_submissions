@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0799-champagne-tower](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0799-champagne-tower) |
 | [0875-longest-mountain-in-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0875-longest-mountain-in-array) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1262-greatest-sum-divisible-by-three) |
