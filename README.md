@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0155-min-stack) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0933-number-of-recent-calls) |
+| [1032-stream-of-characters](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1032-stream-of-characters) |
 | [2169-simple-bank-system](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2169-simple-bank-system) |
 ## Array
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1019-squares-of-a-sorted-array) |
+| [1032-stream-of-characters](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1032-stream-of-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1200-minimum-absolute-difference) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0756-pyramid-transition-matrix) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1032-stream-of-characters](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1032-stream-of-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0933-number-of-recent-calls) |
+| [1032-stream-of-characters](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1032-stream-of-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -811,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [1032-stream-of-characters](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1032-stream-of-characters) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Binary Search Tree
 |  |
