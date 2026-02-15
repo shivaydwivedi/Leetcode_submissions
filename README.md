@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
+| [0067-add-binary](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0392-is-subsequence) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0735-asteroid-collision) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2169-simple-bank-system) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0172-factorial-trailing-zeroes) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0137-single-number-ii) |
