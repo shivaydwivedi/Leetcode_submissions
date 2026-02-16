@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0155-min-stack) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0933-number-of-recent-calls) |
 | [1032-stream-of-characters](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1032-stream-of-characters) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0268-missing-number) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0756-pyramid-transition-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0756-pyramid-transition-matrix) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0268-missing-number) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3863-power-grid-maintenance](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3863-power-grid-maintenance) |
@@ -760,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0933-number-of-recent-calls) |
 | [1032-stream-of-characters](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1032-stream-of-characters) |
@@ -824,4 +829,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1382-balance-a-binary-search-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1382-balance-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
