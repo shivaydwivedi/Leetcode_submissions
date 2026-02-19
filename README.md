@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0443-string-compression) |
+| [0696-count-binary-substrings](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0696-count-binary-substrings) |
 | [0875-longest-mountain-in-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0474-ones-and-zeroes) |
 | [0649-dota2-senate](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0649-dota2-senate) |
+| [0696-count-binary-substrings](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0756-pyramid-transition-matrix) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0955-delete-columns-to-make-sorted-ii) |
