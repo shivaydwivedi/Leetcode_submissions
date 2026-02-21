@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0933-number-of-recent-calls) |
 | [1032-stream-of-characters](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1032-stream-of-characters) |
 | [2043-simple-bank-system](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2043-simple-bank-system) |
+| [2080-range-frequency-queries](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2080-range-frequency-queries) |
 | [2169-simple-bank-system](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2169-simple-bank-system) |
 ## Array
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2043-simple-bank-system](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2043-simple-bank-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2054-two-best-non-overlapping-events) |
+| [2080-range-frequency-queries](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2080-range-frequency-queries) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2043-simple-bank-system](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2043-simple-bank-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2080-range-frequency-queries](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2080-range-frequency-queries) |
 | [2169-simple-bank-system](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2054-two-best-non-overlapping-events) |
+| [2080-range-frequency-queries](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2080-range-frequency-queries) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -826,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0715-range-module](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0715-range-module) |
+| [2080-range-frequency-queries](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2080-range-frequency-queries) |
 | [3454-separate-squares-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3721-longest-balanced-subarray-ii) |
