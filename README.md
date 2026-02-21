@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0432-all-oone-data-structure) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0715-range-module](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0715-range-module) |
 | [0933-number-of-recent-calls](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0933-number-of-recent-calls) |
 | [1032-stream-of-characters](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1032-stream-of-characters) |
 | [2043-simple-bank-system](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2043-simple-bank-system) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0715-range-module](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0715-range-module) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3863-power-grid-maintenance](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3863-power-grid-maintenance) |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0715-range-module](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0715-range-module) |
 | [3454-separate-squares-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3721-longest-balanced-subarray-ii) |
