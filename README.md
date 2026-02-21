@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0155-min-stack) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0355-design-twitter](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0432-all-oone-data-structure) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0355-design-twitter](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0432-all-oone-data-structure) |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0206-reverse-linked-list) |
+| [0355-design-twitter](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0432-all-oone-data-structure) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2054-two-best-non-overlapping-events](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2402-meeting-rooms-iii) |
