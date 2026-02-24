@@ -628,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0437-path-sum-iii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0872-leaf-similar-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1382-balance-a-binary-search-tree) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0872-leaf-similar-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1382-balance-a-binary-search-tree) |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0872-leaf-similar-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1382-balance-a-binary-search-tree) |
