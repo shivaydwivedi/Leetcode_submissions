@@ -1,0 +1,19 @@
+class Solution:
+    def numSteps(self, s: str) -> int:
+        if s == "1":
+            return 0
+        
+        steps = 0
+        carry = 0
+        
+        # Traverse from LSB to second bit
+        for i in range(len(s) - 1, 0, -1):
+            bit = int(s[i]) + carry
+            
+            if bit == 1:
+                steps += 2
+                carry = 1
+            else:
+                steps += 1
+        
+        return steps + carry
