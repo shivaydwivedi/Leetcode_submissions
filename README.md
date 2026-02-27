@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3606-coupon-code-validator) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3714-longest-balanced-substring-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2092-find-all-people-with-secret) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3863-power-grid-maintenance](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3863-power-grid-maintenance) |
 ## Enumeration
 |  |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0715-range-module](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0715-range-module) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3863-power-grid-maintenance](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3863-power-grid-maintenance) |
 ## Queue
 |  |
@@ -885,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Randomized
 |  |
 | ------- |
