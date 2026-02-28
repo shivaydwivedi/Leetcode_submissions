@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0735-asteroid-collision) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2043-simple-bank-system](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2043-simple-bank-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2169-simple-bank-system) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1925-count-square-sum-triples](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1925-count-square-sum-triples) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
