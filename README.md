@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1894-merge-strings-alternately](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1894-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
