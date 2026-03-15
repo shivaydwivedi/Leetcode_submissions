@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0715-range-module](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0715-range-module) |
 | [0933-number-of-recent-calls](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0933-number-of-recent-calls) |
 | [1032-stream-of-characters](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1032-stream-of-characters) |
+| [1622-fancy-sequence](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1622-fancy-sequence) |
 | [2043-simple-bank-system](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2043-simple-bank-system) |
 | [2080-range-frequency-queries](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2080-range-frequency-queries) |
 | [2169-simple-bank-system](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2169-simple-bank-system) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1390-four-divisors) |
 | [1395-minimum-time-visiting-all-points](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1622-fancy-sequence](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -878,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0715-range-module](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0715-range-module) |
+| [1622-fancy-sequence](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1622-fancy-sequence) |
 | [2080-range-frequency-queries](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2080-range-frequency-queries) |
 | [3454-separate-squares-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3719-longest-balanced-subarray-i) |
