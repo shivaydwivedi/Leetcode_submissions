@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
