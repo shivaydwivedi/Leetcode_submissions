@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
