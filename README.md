@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0432-all-oone-data-structure) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0567-permutation-in-string) |
 | [0756-pyramid-transition-matrix](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0696-count-binary-substrings) |
 | [0875-longest-mountain-in-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0875-longest-mountain-in-array) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0474-ones-and-zeroes) |
+| [0567-permutation-in-string](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0696-count-binary-substrings) |
@@ -776,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
