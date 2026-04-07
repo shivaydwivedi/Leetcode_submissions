@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-stream-of-characters](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1032-stream-of-characters) |
 | [1622-fancy-sequence](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1622-fancy-sequence) |
 | [2043-simple-bank-system](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2043-simple-bank-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2069-walking-robot-simulation-ii) |
 | [2080-range-frequency-queries](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2080-range-frequency-queries) |
 | [2169-simple-bank-system](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2169-simple-bank-system) |
 ## Array
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2043-simple-bank-system](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2043-simple-bank-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2069-walking-robot-simulation-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2211-count-collisions-on-a-road) |
