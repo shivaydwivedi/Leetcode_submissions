@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0875-longest-mountain-in-array) |
 | [0883-projection-area-of-3d-shapes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0904-fruit-into-baskets](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1319-unique-number-of-occurrences) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -797,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
