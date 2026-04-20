@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2043-simple-bank-system](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2043-simple-bank-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2054-two-best-non-overlapping-events) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2080-range-frequency-queries](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2080-range-frequency-queries) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shivaydwivedi/Leetcode_submissions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
